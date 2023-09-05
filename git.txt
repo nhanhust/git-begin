@@ -1,0 +1,29 @@
+
+
+git init
+git add *
+unadd:
+git reset   
+gan nhan:
+git commit -m '' *
+link vs repo:
+git remote add origin https://github.com/nhanhust/DATN-DaoTrongNhan-20181683.git
+kiem tra remote:
+git remote -v 
+
+
+git pull name-repo name-branch
+git push name-repo name-branch
+git push -f origin main
+
+
+cau hinh nguoi day len git:
+git config --list
+git config --local --unset user.name
+
+kiem tra trang thai:
+git status
+
+
+
+
